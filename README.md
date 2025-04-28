@@ -1,4 +1,4 @@
-# Pokémon Card Price Tracker
+# Pokeprice Hunter
 
 Web scraper for tracking Japanese Pokémon card prices from Torecacamp!  
 Personal project because I wanted to make a more informed decision whenever I buy new cards for my collection 😆
